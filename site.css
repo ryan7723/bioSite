@@ -63,3 +63,29 @@ text-align: center;
 padding: 10px;
 margin-top:20px;
 }
+
+.climbing-container {
+display: flex;
+justify-content: center;
+align-items: flex-start;
+gap: 25px;
+width: fit-content;
+margin: 0 auto 15px auto;
+}
+
+.climbing-container img {
+width: 300px;
+height: 450px;
+object-fit: cover;
+object-position: center top;
+border-radius: 10px;
+}
+
+.climbing-text {
+text-align: center;
+margin-top: 15px;
+}
+
+.hobby p {
+text-algin: center;
+}
